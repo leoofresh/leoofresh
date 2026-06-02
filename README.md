@@ -18,6 +18,32 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="#">
+<img src="https://placehold.co/500x140/0d1117/ffffff?text=LEOCRAFT" width="48%">
+</a>
+
+<a href="#">
+<img src="https://placehold.co/500x140/0d1117/ffffff?text=LAND+STORES" width="48%">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#">
+<img src="https://placehold.co/500x140/0d1117/ffffff?text=PARANOID" width="48%">
+</a>
+
+<a href="#">
+<img src="https://placehold.co/500x140/0d1117/ffffff?text=COMING+SOON" width="48%">
+</a>
+
+</p>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=dark&hide_border=true)
