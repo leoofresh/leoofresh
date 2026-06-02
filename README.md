@@ -4,7 +4,7 @@
 
 <br>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/776183087994372156?theme=dark&bg=18191c&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1413442166151446531)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1413442166151446531?theme=dark&bg=18191c&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1413442166151446531)
 
 ## 🚀 Languages & Tools
 
@@ -26,7 +26,7 @@
 
 <p align="left">
 
-<a href="https://discord.com/users/776183087994372156">
+<a href="https://discord.com/users/1413442166151446531">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
