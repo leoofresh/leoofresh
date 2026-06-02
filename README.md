@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=5865F2" />
+<img src="https://komarev.com/ghpvc/?username=leoofresh&label=PROFILE+VIEWS&style=for-the-badge&color=5865F2" />
 
 </div>
 
@@ -33,9 +33,9 @@ Discord applications and Minecraft experiences.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoofresh&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -43,7 +43,7 @@ Discord applications and Minecraft experiences.
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&hide_border=true&line=5865F2&point=5865F2&area=true" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=leoofresh&bg_color=00000000&hide_border=true&line=5865F2&point=5865F2&area=true" />
 
 </div>
 
@@ -57,7 +57,7 @@ Discord applications and Minecraft experiences.
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/leoofresh">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -67,7 +67,7 @@ Discord applications and Minecraft experiences.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=leoofresh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
