@@ -1,53 +1,80 @@
 <div align="center">
 
-# Leo
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&lines=LEO;Developer;Backend+Systems;Minecraft+%26+Discord+Projects" />
 
-```txt
-Building things. Breaking limits.
-```
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=leobaba&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=5865F2" />
 
 </div>
 
 ---
 
-### About Me
+## About
 
-- Software Developer
-- Discord & Backend Systems
-- Minecraft Server Development
-- Automation & Infrastructure
-- Always learning, always building
-
----
-
-### Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,mongodb,html,css,git,github,vscode" />
-</p>
+```txt
+Building scalable systems, automation tools,
+Discord applications and Minecraft experiences.
+```
 
 ---
 
-### Connect
+## Tech Stack
 
-<p>
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,html,css,git,github,vscode&perline=5" />
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&hide_border=true&line=5865F2&point=5865F2&area=true" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000)
+</div>
+
+---
+
+<div align="center">
+
+### Turning ideas into systems.
 
 </div>
