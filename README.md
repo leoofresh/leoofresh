@@ -18,9 +18,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=github_dark&hide_border=true" height="170">
-  <img src="https://streak-stats.demolab.com?user=leoofresh&theme=github-dark-blue&hide_border=true" height="170">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ## 📱 Social Media
