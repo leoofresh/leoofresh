@@ -19,9 +19,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=github_dark&hide_border=true" height="170">
+  <img src="https://streak-stats.demolab.com?user=leoofresh&theme=github-dark-blue&hide_border=true" height="170">
 </p>
 
 ## 📱 Social Media
