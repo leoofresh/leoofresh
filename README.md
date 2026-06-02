@@ -23,7 +23,7 @@
 <p align="center">
 
 <a href="#">
-<img src="https://i.hizliresim.com/ou7bzu3.jpg" width="48%">
+<img src="https://i.hizliresim.com/5qlh3n2.png" width="48%">
 </a>
 
 <a href="#">
