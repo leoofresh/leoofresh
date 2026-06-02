@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&theme=dark&hide_border=true)
 
 ## 📱 Social Media
 
