@@ -35,7 +35,7 @@
 <p align="center">
 
 <a href="#">
-<img src="https://placehold.co/500x140/0d1117/ffffff?text=PARANOID" width="48%">
+<img src="[url=https://hizliresim.com/hyw8k0n][img]https://i.hizliresim.com/hyw8k0n.jpg[/img][/url]" width="48%">
 </a>
 
 <a href="#">
@@ -43,12 +43,6 @@
 </a>
 
 </p>
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&theme=dark&hide_border=true)
 
 ## 📱 Social Media
 
