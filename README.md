@@ -23,7 +23,7 @@
 <p align="center">
 
 <a href="#">
-<img src="https://placehold.co/500x140/0d1117/ffffff?text=LEOCRAFT" width="48%">
+<img src="https://i.hizliresim.com/ou7bzu3.jpg" width="48%">
 </a>
 
 <a href="#">
