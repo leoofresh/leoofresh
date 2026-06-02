@@ -23,11 +23,11 @@
 <p align="center">
 
 <a href="#">
-<img src="https://i.hizliresim.com/5qlh3n2.png" width="48%" style="border-radius: 180px;">
+<img src="https://i.hizliresim.com/apvh6ps.png" width="48%" >
 </a>
 
 <a href="#">
-<img src="https://i.hizliresim.com/l5aplrf.jpg" width="48%" style="border-radius: 180px;">
+<img src="https://i.hizliresim.com/h7ik1j7.png" width="48%" >
 </a>
 
 </p>
@@ -35,11 +35,11 @@
 <p align="center">
 
 <a href="#">
-<img src="https://i.hizliresim.com/hyw8k0n.jpg" width="48%" style="border-radius: 180px;">
+<img src="https://i.hizliresim.com/och47x8.png" width="48%" >
 </a>
 
 <a href="#">
-<img src="https://i.hizliresim.com/94tim7t.jpg" width="48%" style="border-radius: 180px;">
+<img src="https://i.hizliresim.com/h1eh5lz.png" width="48%" >
 </a>
 
 </p>
