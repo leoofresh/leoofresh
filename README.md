@@ -1,63 +1,100 @@
-# 👋 Hello, I'm Leo
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=leobaba&label=Profile%20Views&color=ffb300&style=flat" alt="profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1500&color=F7C52B&center=true&vCenter=true&width=900&lines=LEO;Minecraft+Developer;Discord+Systems;Building+LeoCraft" />
 
-## 🚀 About Me
+<br>
 
-I'm **Leo**, a developer focused on  **Discord bot systems** **Minecraft server development**, and **custom game infrastructure**.
+<img src="https://komarev.com/ghpvc/?username=leobaba&label=PROFILE+VIEWS&color=f7c52b&style=for-the-badge" />
 
-For several years I've been building projects ranging from Discord applications to large-scale Minecraft server systems. My primary interests include backend development, game mechanics, automation, and creating unique player experiences.
+<img src="https://img.shields.io/github/followers/leobaba?style=for-the-badge&color=f7c52b&labelColor=111111" />
 
-Currently, I'm working on projects such as:
+<img src="https://img.shields.io/github/stars/leobaba?style=for-the-badge&color=f7c52b&labelColor=111111" />
 
-- 🏰 Custom Minecraft server systems
-- ⚔️ RPG & economy mechanics
-- 🤖 Discord bots and automation tools
-- 🌐 Web development and store systems
-- 🔧 Custom plugins and game infrastructure
-
-Outside of development, I enjoy gaming, listening to music, watching movies, and exploring new technologies.
+</div>
 
 ---
 
-## 🛠 Languages & Technologies
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PaperMC](https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=leobaba&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leobaba&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobaba&layout=compact&theme=tokyonight" />
-</p>
+## ⚡ Statistics
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leobaba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-## 🌐 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobaba&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<p align="left">
-<a href="https://discord.com/users/1413442166151446531">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="https://github.com/leobaba">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+</div>
 
 ---
 
-### 💡 Current Focus
+<div align="center">
 
-> Building unique Minecraft experiences, advanced server systems, and scalable community projects.
+## 🔥 Activity
 
-⭐ Thanks for visiting my profile.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leobaba&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leobaba&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠 Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,mysql,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 Discord
+
+<img src="https://lanyard.cnrad.dev/api/776183087994372156?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&bg=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ LEOCRAFT DEVELOPMENT
+
+```yaml
+Status: Online
+Project: LeoCraft
+Language: Java
+Focus: Minecraft & Discord Systems
+```
+
+</div>
