@@ -35,11 +35,11 @@
 <p align="center">
 
 <a href="#">
-<img src="[url=https://hizliresim.com/hyw8k0n][img]https://i.hizliresim.com/hyw8k0n.jpg[/img][/url]" width="48%">
+<img src="https://i.hizliresim.com/hyw8k0n.jpg" width="48%">
 </a>
 
 <a href="#">
-<img src="https://placehold.co/500x140/0d1117/ffffff?text=COMING+SOON" width="48%">
+<img src="https://i.hizliresim.com/94tim7t.jpg" width="48%">
 </a>
 
 </p>
