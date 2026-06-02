@@ -27,7 +27,7 @@
 </a>
 
 <a href="#">
-<img src="https://placehold.co/500x140/0d1117/ffffff?text=LAND+STORES" width="48%">
+<img src="https://i.hizliresim.com/l5aplrf.jpg" width="48%">
 </a>
 
 </p>
