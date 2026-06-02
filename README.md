@@ -18,10 +18,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&hide_border=true&bg_color=00000000)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&hide_border=true&background=00000000)
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
 ## 📱 Social Media
 
 <p align="left">
