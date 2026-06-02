@@ -1,40 +1,32 @@
-<div align="center">
+## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=leoofresh&label=Profile%20Views&color=5865F2" alt="leoofresh" />
 
-# ⚡ Leo
+- ⭐ Hi, I'm Leo. I'm a software developer focused on backend systems, automation projects, Discord applications and Minecraft server development. I enjoy building new things, learning new technologies and turning ideas into working systems. Every project is another step toward becoming a better developer. You can easily find me on Discord through **[Leo](https://discord.com/users/776183087994372156)**.
 
-```txt
-Building things. Breaking limits.
-```
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=leoofresh&label=PROFILE+VIEWS&color=5865F2&style=for-the-badge" />
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/776183087994372156?theme=dark&bg=18191c&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/776183087994372156)
 
-</div>
+## 🚀 Languages & Tools
 
----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 About Me
+## 📊 GitHub Stats
 
-- 💻 Software Developer
-- 🤖 Discord & Backend Systems
-- ⛏️ Minecraft Server Development
-- ⚙️ Automation & Infrastructure
-- 📚 Always learning, always building
+![](https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&hide_border=true&bg_color=00000000)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&hide_border=true&background=00000000)
 
-### 🛠️ Tech Stack
+## 📱 Social Media
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,mongodb,html,css,git,github,vscode" />
-</p>
+<p align="left">
 
----
-
-### 🌐 Connect
-
-<p align="center">
-
-<a href="https://discord.com/users/YOUR_ID">
+<a href="https://discord.com/users/776183087994372156">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
@@ -46,20 +38,8 @@ Building things. Breaking limits.
 
 ---
 
-<div align="center">
+### ⚡ Leo
 
-### 📊 Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=leoofresh&show_icons=true&hide_border=true&bg_color=00000000)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=leoofresh&hide_border=true&background=00000000)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Turning ideas into systems.
-
-</div>
+```txt
+Building things. Breaking limits.
+```
