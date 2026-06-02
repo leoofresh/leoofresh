@@ -1,4 +1,4 @@
-## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=leoofresh&label=Profile%20Views&color=5865F2" alt="leoofresh" />
+## Hello Github! <img src="https://cdn.discordapp.com/attachments/1502115795960987711/1511422444496228638/1455333870617628754.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=leoofresh&label=Profile%20Views&color=5865F2" alt="leoofresh" />
 
 - ⭐ Hi, I'm Leo. I'm a software developer focused on backend systems, automation projects, Discord applications and Minecraft server development. I enjoy building new things, learning new technologies and turning ideas into working systems. Every project is another step toward becoming a better developer. You can easily find me on Discord through **[Leo](https://discord.com/users/1413442166151446531)**.
 
