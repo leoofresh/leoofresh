@@ -44,7 +44,7 @@
 
 </p>
 
-## 📱 Social Media
+## <img src="https://cdn.discordapp.com/emojis/1512912134650986686.webp" width="25px"> Social Media
 
 <p align="left">
 
