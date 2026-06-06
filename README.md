@@ -6,7 +6,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1413442166151446531?theme=dark&bg=18191c&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1413442166151446531)
 
-##  <img src="https://cdn.discordapp.com/emojis/1455333870617628754.webp" width="25px"> Languages & Tools
+## 🚀 <img src="https://cdn.discordapp.com/emojis/1502119269268197476.webp" width="25px"> Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PaperMC](https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=minecraft&logoColor=black)
@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
+## <img src="https://cdn.discordapp.com/emojis/1502119327082614895.webp" width="25px"> Featured Projects
 
 <p align="center">
 
