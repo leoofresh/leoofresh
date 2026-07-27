@@ -23,26 +23,15 @@
 <p align="center">
 
 <a href="#">
-<img src="https://i.hizliresim.com/apvh6ps.png" width="48%" >
+<img src="https://resmim.net/cdn/2026/07/27/EdioML.png" width="48%" >
 </a>
 
 <a href="#">
-<img src="https://i.hizliresim.com/h7ik1j7.png" width="48%" >
+<img src="https://resmim.net/cdn/2026/07/27/Edidtx.png" width="48%" >
 </a>
 
 </p>
 
-<p align="center">
-
-<a href="#">
-<img src="https://i.hizliresim.com/och47x8.png" width="48%" >
-</a>
-
-<a href="#">
-<img src="https://i.hizliresim.com/h1eh5lz.png" width="48%" >
-</a>
-
-</p>
 
 ## <img src="https://cdn.discordapp.com/emojis/1512912134650986686.webp" width="25px"> Social Media
 
